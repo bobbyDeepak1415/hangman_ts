@@ -23,9 +23,9 @@ function App() {
         Lose Win
       </div>
       <div>
-        <HangmanDrawing/>
+        {/* <HangmanDrawing/>
         <HangmanWord/>
-        <Keyboard/>
+        <Keyboard/> */}
       </div>
     </div>
   );
